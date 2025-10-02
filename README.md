@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ronin-kuko.ronin-kuko&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ronin-kuko.ronin-kuko&"/>
 </div>
 
 ###
