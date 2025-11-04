@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🎯 Head of Information Security | Fitness Enthusiast | Aspiring PT Coach<br><br>🔐 Information Security professional holding CISSP, CEH, CCSK, and CompTIA Security+ certifications<br>🏋️‍♂️ Certified fitness instructor, focused on strength training, hypertrophy, calisthenics, and nutrition for performance<br>🚀 Building Iron Sanctum – a fitness brand blending tech + training</p>
+<p align="left">🎯 Head of Information Security | Fitness Enthusiast | Personal Trainer<br><br>🔐 Information Security professional holding CISSP, CEH, CCSK, and CompTIA Security+ certifications<br>🏋️‍♂️ Certified personal trainer, focused on strength training, hypertrophy, calisthenics, and nutrition for performance<br>🚀 Building Iron Sanctum – a fitness brand blending tech + training</p>
 
 ###
 
