@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xveDVhN3V0Ym15aTZkc2ppYWp3eHk1aGR4ZjVtczhvODY4ZmlqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"  />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ronin.kuko.png" alt="Your Image Badge" />
 </div>
 
 ###
