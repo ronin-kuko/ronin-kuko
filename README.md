@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://tryhackme-badges.s3.amazonaws.com/ronin.kuko.png" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ronin.kuko.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ronin.kuko.png?cache=20260212" alt="Your Image Badge" />
 </div>
 
 ###
