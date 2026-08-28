@@ -5,20 +5,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kikototev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/kiriltotev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://linktr.ee/kiriltotev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ronin-kuko.ronin-kuko&"/>
 </div>
 
@@ -32,7 +18,7 @@
 
 ###
 
-<p align="left">🎯 Head of Information Security | Personal Trainer<br>🔐 Information Security professional holding CISSP, CEH, CCSK, and CompTIA Security+ certifications<br>🏋️‍♂️ Certified personal trainer, focused on strength training, hypertrophy, calisthenics, and nutrition for performance<br>🚀 Building Iron Sanctum – a fitness brand blending tech and training</p>
+<p align="left">🎯 Head of Information Security | Personal Trainer<br>🔐 Information Security professional holding CISSP, CEH, CCSK, and CompTIA Security+ certifications<br>🏋️‍♂️ Certified personal trainer, focused on strength training, hypertrophy, calisthenics, and nutrition for performance</p>
 
 ###
 
